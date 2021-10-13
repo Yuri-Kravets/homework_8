@@ -1,16 +1,4 @@
-/*let userAge = +prompt('введите год рождения');
-let userCity = prompt('введите название Вашего города');
-let userSport ;
-const refusedToInsert = 'Жаль, что Вы не захотели ввести свой';
-const likeChampion = 'Хочешь стать как';
 
-switch (userAge) {
-    case userAge: (userAge > 0)
-    case userAge: (userAge === !isNaN)
-    case userCity: ('string')
-     userSport = prompt('введите вид спорта');
-
-}*/
 let year = prompt("В каком году Вы родились?", "");
 let age;
 let city;
