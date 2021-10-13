@@ -1,5 +1,5 @@
 
-let year = prompt("В каком году Вы родились?", "");
+let year = +prompt("В каком году Вы родились?", "");
 let age;
 let city;
 let sport;
